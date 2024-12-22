@@ -1,8 +1,4 @@
 # **Web RTC**
-
-developed by sanat kumar mishra and satvik shukla
-
-
 To run , type the following code in terminal
 
 ```bash
